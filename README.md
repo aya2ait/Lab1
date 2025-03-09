@@ -1,4 +1,5 @@
 Deep Learning Lab: Classification and Regression with PyTorch
+
 Lab Overview
 This lab focused on building and training Deep Neural Networks (DNNs) using the PyTorch library for two main tasks: regression and multi-class classification. The goal was to gain hands-on experience with data preprocessing, model architecture design, hyperparameter tuning, and evaluation techniques. The lab was divided into two parts, each using a different dataset and addressing specific machine learning challenges.
 
